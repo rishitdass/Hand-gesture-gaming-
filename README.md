@@ -21,10 +21,9 @@ This gesture control system can be used to control games or other applications t
 ### Control Mapping
 
 The gestures correspond to the following actions:
-
+![Gesture mapping](https://github.com/rishitdass/Hand-gesture-gaming-/blob/main/image.png "Gesture mapping")
 - **Left Hand Gesture**: Matches with `A` (Move Left) and  `D` (Move Right)
 - **Right Hand Gesture**: Matches with `W` (Move Forward) and  `A` (Move backward)
-- **Both Hands Gesture**: Matches with `STOP` to stop movement
 
 ## Code Structure
 
