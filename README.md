@@ -7,7 +7,8 @@ This project implements a hand gesture recognition system for controlling games 
 - Custom gesture matching algorithm to detect W, A, S, D movements.
 - Control games by mapping gestures to keyboard key presses using `control` module.
 - Multi-hand support to differentiate between gestures performed by the left and right hand.
-
+## Project Demonstration
+https://www.linkedin.com/feed/update/urn:li:activity:7237457931514880000/
 ## Usage
 <div align="center">
   <img src="https://github.com/rishitdass/Hand-gesture-gaming-/blob/main/imag2.jpg" alt="working" width="450" height="250">
